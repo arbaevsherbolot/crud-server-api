@@ -1,7 +1,7 @@
 {
   "name": "test-sql",
   "version": "1.0.0",
-  "proxy": "https://authorization.up.railway.app",
+  "proxy": "https://crud-server-api.up.railway.app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
